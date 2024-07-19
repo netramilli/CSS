@@ -1,0 +1,18 @@
+div{
+    height: 150px;
+    width: 150px;
+    background-color: darksalmon;
+    /* transform: rotate(45deg); */
+}
+
+div:hover{
+
+    /* transform: scale(0.5); */
+    transform: rotate(45deg)  translate(100px,100px);
+    /* transform: skew(30deg); */
+    /* transform: scale(1.5); */
+    /* transform: translate(100px,100px); */
+    /* transform: skew(30deg);
+    background-color: aquamarine; */
+
+}
